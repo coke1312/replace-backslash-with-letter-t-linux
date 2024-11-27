@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Replace backlash with letter T
+Exec=xmodmap -e "keycode 51 = t"
+Icon=utilities-terminal
+Terminal=true
